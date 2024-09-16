@@ -1,0 +1,30 @@
+Algoritmo café da manhã em Portugol
+
+INÍCIO
+1. Acordar;
+2. Levantar da cama;
+3. Tomar um banho;
+	1. Escovar os dentes;
+	2. Vestir roupa;
+4. Vestir o óculos;
+5. Ir até a cozinha;
+6. Se a louça estiver limpa:
+	1. Retirar o presunto, queijo, requeijão e o suco da geladeira;
+	2. Colocar duas fatias de pão em um prato;
+	3. Passar o requeijão no pão com uma faca;
+	4. Adicionar o presunto e o queijo;
+	5. Adicionar o suco a uma taça;
+	6. Guardar os insumos;
+	7. Ir até a escrivaninha;
+	8. Tomar o café da manhã e conferir o cronograma do dia;
+7. Se a louça não estiver limpa:
+	1. Lavar o prato e/ou a taça;
+	2. Retirar o presunto, queijo, requeijão e o suco da geladeira;
+	3. Colocar duas fatias de pão em um prato;
+	4. Passar o requeijão no pão com uma faca;
+	5. Adicionar o presunto e o queijo;
+	6. Adicionar o suco a uma taça;
+	7. Guardar os insumos;
+	8. Ir até a escrivaninha;
+	9. Tomar o café da manhã e conferir o cronograma do dia;
+FIM
